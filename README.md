@@ -4,7 +4,7 @@ I am a Data Science and Machine learning enthusiast. I love to find innovtive so
 
 So if you are interested in python and want to apply your knowledge on python in some projects LETS DIVE IN my projects 🤩 !!
 
-
+<img src="gif.gif">
 
 
 - 🔭 I’m currently working on ...
