@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Mayank Vaishya !
 
-I am a Data Science and Machine learning enthusiast. I love to find innovtive solutions of the problems I encounter and I believe my sills will one dy help me bring good to this world. 
+I am a Data Science and Machine learning enthusiast. I love to find innovtive solutions of the problems I encounter and I believe my sills will one day help me bring good to this world. 
 
-So if you are interested in python and want to apply your knowledge on python in some projects LETS DIVE IN my projects 🤩 !!
+If you are interested in python and want to apply your knowledge on python in some projects, LETS DIVE IN my projects 🤩 !!
 
 <img src="gif.gif">
 
