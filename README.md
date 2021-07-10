@@ -13,5 +13,5 @@ If you are interested in python and want to apply your knowledge on python in so
 - 📫 if you want to know more about me here is my <a href=""> resume <\a>
 
 ### My little world
-Want to stalk or connect with me?, Here's my <a href="www.linkedin.com/in/mayank-vaishya"> LinkedIn  <\a> Handle.
+Want to stalk or connect with me?, Here's my <a href="www.linkedin.com/in/mayank-vaishya"> LinkedIn <\a> Handle.
 Have something on mind? Mail it to my <a href="mayankvaishya.be18prod@pec.edu.in "> Email-id <\a>.
