@@ -10,8 +10,8 @@ If you are interested in python and want to apply your knowledge on python in so
 - 🔭 I’m currently working on operating system of a dialysis machine
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking for opportunities. If you have one or can refer me that would be great.
-- 📫 if you want to know more about me here is my <a href=""> resume <\a>
+- 📫 if you want to know more about me here is my <a href=""> resume
 
 ### My little world
-Want to stalk or connect with me?, Here's my <a href="www.linkedin.com/in/mayank-vaishya"> LinkedIn <\a> Handle.
-Have something on mind? Mail it to my <a href="mayankvaishya.be18prod@pec.edu.in "> Email-id <\a>.
+Want to stalk or connect with me?, Here's my <a href="www.linkedin.com/in/mayank-vaishya"> LinkedIn Handle.
+Have something on mind? Mail it to my <a href="mayankvaishya.be18prod@pec.edu.in "> Email-id.
