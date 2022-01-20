@@ -10,7 +10,7 @@ If you are interested in python and want to apply your knowledge on python in so
 - 🔭 I’m currently working on operating system of a dialysis machine
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking for opportunities. If you have one or can refer me that would be great.
-- 📫 if you want to know more about me here is my <a href="https://github.com/Mayank5119/Mayank5119/blob/main/latest%20resume.pdf"> resume </a>
+- 📫 if you want to know more about me here is my <a href="https://github.com/Mayank5119/Mayank5119/blob/main/MAYANK_VAISHYA_2%20(2).pdf"> resume </a>
 
 ### My little world
 Want to stalk or connect with me?, Here's my <a href="www.linkedin.com/in/mayank-vaishya"> LinkedIn Handle.</a>
