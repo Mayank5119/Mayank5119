@@ -7,8 +7,8 @@ If you are interested in python and want to apply your knowledge on python in so
 <img src="gif.gif">
 
 
-- 🔭 I’m currently working on operating system of a dialysis machine
-- 🌱 I’m currently learning Machine learning
+- 🔭 I’m currently working on a 3D scanner.
+- 🌱 I’m currently learning Web Development.
 - 👯 I’m looking for opportunities. If you have one or can refer me that would be great.
 - 📫 if you want to know more about me here is my <a href="https://github.com/Mayank5119/Mayank5119/blob/main/MAYANK_VAISHYA_2%20(2).pdf"> resume </a>
 
