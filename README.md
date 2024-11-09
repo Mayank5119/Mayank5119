@@ -6,7 +6,7 @@ If you are interested in Python and want to apply your knowledge on Python in so
 <img src="gif.gif">
 
 
-- 🔭 I’m currently working in Amazon.
+- 🔭 I’m currently working in New Relic.
 - 👯 I’m looking for opportunities. If you have one or can refer me that would be great.
 - 📫 if you want to know more about me here is my <a href="https://github.com/Mayank5119/Mayank5119/blob/main/MAYANK_VAISHYA.pdf"> resume </a>
 
