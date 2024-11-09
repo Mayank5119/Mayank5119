@@ -8,7 +8,7 @@ If you are interested in Python and want to apply your knowledge on Python in so
 
 - 🔭 I’m currently working in New Relic.
 - 👯 I’m looking for opportunities. If you have one or can refer me that would be great.
-- 📫 if you want to know more about me here is my <a href="https://github.com/Mayank5119/Mayank5119/blob/main/MAYANK_VAISHYA 2.pdf"> resume </a>
+- 📫 if you want to know more about me here is my <a href="https://github.com/Mayank5119/Mayank5119/blob/main/MAYANK_VAISHYA 2.docx.pdf"> resume </a>
 
 ### My little world
 Want to stalk or connect with me?, Here's my <a href="www.linkedin.com/in/mayank-vaishya"> LinkedIn Handle.</a>
